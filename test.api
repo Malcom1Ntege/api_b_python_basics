@@ -1,0 +1,8 @@
+ name = input("Enter your name")
+ age = input("Enter your age")
+ 
+ print (type(age))
+
+ num = int(input("Enter a number")) #type casting
+
+ print ("My name is {name} and the number is {num}")
